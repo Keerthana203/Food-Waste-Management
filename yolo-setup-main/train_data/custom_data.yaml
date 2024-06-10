@@ -1,0 +1,7 @@
+
+train: ../train_data/images/train/ 
+val: ../train_data/images/val/ 
+
+nc: 2
+# Classes
+names: ['bread', 'banana_waste']
